@@ -316,3 +316,6 @@ p {
 .headingOneHeader {
     color: white;
 }
+.row {
+    margin: 0 !important;
+}
